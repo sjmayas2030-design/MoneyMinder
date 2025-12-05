@@ -1,36 +1,16 @@
 # MoneyMinder
 MoneyMinder is a software tool designed to help users keep an eye on all your expenses, income, and saving goals. It aims to promote better financial management by providing clear transaction records, visual spending summaries, and regular updates on progress toward savings targets.
 
-#FEATURES OF THE PROGRAM
-Track expenses 
-Track saving goals
-Record Income
-Generate monthly budget
+# FEATURES OF THE PROGRAM
+1. Track Income and Expenses – Records how much money students earn and spend.
+2. Set Savings Goals – Allows students to plan and save money for specific purposes.
+3. Budget Reminders – Sends alerts to help students stay within their budget.
+4. Summary Reports – Shows a clear overview of money usage to help with financial decisions.
 
-HOW TO ACTIVATE THE PROGRAM:
-Install Python
-Open the program file
-Enter the needed information
-Run the program
+# HOW TO ACTIVATE THE PROGRAM:
+1. Open the python file: MoneyMinder
+3. Enter your information – Input your income, expenses, and savings goals.
+4. View results – The program will show a summary, track your spending, and give reminders.
 
-INPUT:
-Amount
-Category
-Date
-Savings goal
-
-OUTPUT:
-Add income
-Add expense
-View balance
-View transaction history
-Exit the program
-
-Choose an option: 1
-Enter amount: 600
-Income recorded successfully.
-
-Your current balance is: 600.00
-
-MEMBERS:
+# MEMBERS:
 Marlon Macuno, Shanel May-as, Alenka Pizarro

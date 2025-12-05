@@ -1,0 +1,45 @@
+# Project Title
+MoneyMinder – A Simple App to Track Money for anyone who wants to track their money
+
+# Project Description
+MoneyMinder is a software tool designed to help users keep an eye on all your expenses, income, and saving goals. It aims to promote better financial management by providing clear transaction records, visual spending summaries, and regular updates on progress toward savings targets.
+
+# Objectives
+
+To help students track their income and spending.
+To make it easy to add, view, or delete money records.
+To improve budgeting and money management skills.
+To help students become more responsible with their finances.
+
+
+# Scope of the project 
+
+Users can add income and expenses with details.
+
+Users can update or delete transactions if needed.
+
+Users can check their current balance.
+
+Users can see a summary of all transactions.
+
+# Project Features
+
+Track Income and Expenses – Records how much money students earn and spend.
+Set Savings Goals – Allows students to plan and save money for specific purposes.
+Budget Reminders – Sends alerts to help students stay within their budget.
+Summary Reports – Shows a clear overview of money usage to help with financial decisions.
+
+# How to Run the Project
+Open the python file: https://www.onlinegdb.com/edit/jbsSjdDA2b
+Enter your information – Input your income, expenses, and savings goals.
+View results – The program will show a summary, track your spending, and give reminders.
+
+# Expected Outcomes
+Students can manage and track their money better.
+
+Users can improve budgeting and planning skills.
+
+A simple project to show basic programming and money management skills.
+
+# MEMBERS:
+Marlon II Q. Macuno, Shanel Joy C. May-as, and Alenka Zykia Venice M. Pizarro

@@ -1,0 +1,19 @@
+income = float(input("Enter your total income: "))
+expenses = float(input("Enter your total expenses: "))
+savings_goal = float(input("Enter your savings goal: "))
+
+remaining = income - expenses
+
+print("\n--- Money Summary ---")
+print(f"Income: ${income}")
+print(f"Expenses: ${expenses}")
+print(f"Remaining Money: ${remaining}")
+print(f"Savings Goal: ${savings_goal}")
+
+if remaining >= savings_goal:
+    print("Great! You can reach your savings goal.")
+else:
+    print("You need to save more to reach your goal.")
+
+if remaining < 0:
+    print("Warning: You spent more than you earned!")

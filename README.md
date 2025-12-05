@@ -8,7 +8,7 @@ MoneyMinder is a software tool designed to help users keep an eye on all your ex
 4. Summary Reports – Shows a clear overview of money usage to help with financial decisions.
 
 # HOW TO ACTIVATE THE PROGRAM:
-1. Open the python file: MoneyMinder
+1. Open the python file: https://www.onlinegdb.com/edit/jbsSjdDA2b 
 3. Enter your information – Input your income, expenses, and savings goals.
 4. View results – The program will show a summary, track your spending, and give reminders.
 

@@ -63,3 +63,11 @@ Savings progress
 # Programming and Computing ics
 ‎
 ‎The project respects intellectual property by not copying uncredited code, protects user privacy by not storing financial data online, and follows responsible programming practices aligned with the for of the Association for Computing Machinery Code of Ethics (2018).
+
+# Sources
+
+Association for Computing Machinery. (2018). ACM code of ethics and professional conduct. https://www.acm.org/code-of-ethics
+
+GitHub, Inc. (2024). GitHub documentation. https://docs.github.com/
+
+Python Software Foundation. (2024). Python documentation. https://docs.python.org/3/

@@ -66,8 +66,8 @@ Savings progress
 
 # Sources
 
-Association for Computing Machinery. (2018). ACM code of ethics and professional conduct. https://www.acm.org/code-of-ethics
+Association for Computing Machinery. (2018). ACM code of ethics and professional conduct. Retrieved from https://www.acm.org/code-of-ethics
 
-GitHub, Inc. (2024). GitHub documentation. https://docs.github.com/
+GitHub, Inc. (2024). GitHub documentation. Retrieved from https://docs.github.com/
 
-Python Software Foundation. (2024). Python documentation. https://docs.python.org/3/
+Python Software Foundation. (2024). Python documentation.Retrieved from https://docs.python.org/3/

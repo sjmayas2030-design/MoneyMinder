@@ -14,3 +14,42 @@ MoneyMinder is a software tool designed to help users keep an eye on all your ex
 
 # MEMBERS:
 Marlon Macuno, Shanel May-as, Alenka Pizarro
+
+# Updated Documentation 
+‎
+# Updates Made (3 Updates)
+‎
+Expense Categorization
+Expenses are now stored with categories (e.g., Food, School, Transport) to better analyze spending.
+‎
+Savings Percentage Tracking
+The program calculates and displays the percentage of the savings goal completed using:
+Savings % = (Remaining Balance ÷ Savings Goal) × 100
+‎
+Improved Financial Summary
+The summary now shows:
+Total Income
+Total Expenses
+Remaining Balance
+Expenses grouped by category
+Savings progress
+‎
+# Methodology
+‎
+Income is stored in a list.
+‎
+Expenses are stored as dictionaries containing amount and category.
+‎
+Totals are calculated using Python’s sum() function.
+‎
+The program uses a simple console-based menu system for user interaction. 
+‎
+# Technologies Used
+‎
+Python (program logic and calculations)
+‎
+GitHub (version control and documentation)
+‎
+# Programming and Computing Ethics
+‎
+‎The project respects intellectual property by not copying uncredited code, protects user privacy by not storing financial data online, and follows responsible programming practices aligned with the guidelines of the Association for Computing Machinery Code of Ethics (2018).

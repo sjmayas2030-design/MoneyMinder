@@ -70,4 +70,6 @@ Association for Computing Machinery. (2018). ACM code of ethics and professional
 
 GitHub, Inc. (2024). GitHub documentation. Retrieved from https://docs.github.com/
 
-Python Software Foundation. (2024). Python documentation.Retrieved from https://docs.python.org/3/
+Python Software Foundation. (2024). Python documentation.
+Retrieved from
+https://docs.python.org/3/

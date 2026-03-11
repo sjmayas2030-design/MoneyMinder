@@ -14,9 +14,9 @@ MoneyMinder is a software tool designed to help users keep an eye on all your ex
 4. View results – The program will show a summary, track your spending, and give reminders.
 
 # MEMBERS:
-Marlon Macuno 
-Shanel May-as
-Alenka Pizarro
+Marlon II Q. Macuno 
+Shanel Joy C. May-as
+Alenka Zykia Venice M. Pizarro
 
 # Updates Made (3 Updates)
 1.Expense Categorization

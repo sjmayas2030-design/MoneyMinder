@@ -26,9 +26,7 @@ Expenses are now stored with categories (e.g., Food, School, Transport) to bette
 The program calculates and displays the percentage of the savings goal completed using:
 Savings % = (Remaining Balance ÷ Savings Goal) × 100
 
-
 3.Improved Financial Summary
-
 The summary now shows:
 Total Income
 Total Expenses

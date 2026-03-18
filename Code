@@ -1,24 +1,29 @@
-income = float(input("Enter your total income: "))
-expenses = float(input("Enter your total expenses: "))
+print(" MoneyMinder ")
 
-savings_goal = float(input("Enter your savings goal: "))
+income = float(input("Enter income: "))
+savings_goal = float(input("Enter savings goal: "))
 
-remaining = income - expenses
+food = float(input("Food expense: "))
+school = float(input("School expense: "))
+transport = float(input("Transport expense: "))
 
-print("\n--- Money Summary ---")
-print("Income: $", income)
-print("Expenses: $", expenses)
-print("Remaining Money: $", remaining)
-print("Savings Goal: $", savings_goal)
+total_expenses = food + school + transport
+remaining = income - total_expenses
+percent = (remaining / savings_goal) * 100
+
+print("\n--- Summary ---")
+print("Total Income:", income)
+print("Total Expenses:", total_expenses)
+print("Remaining Balance:", remaining)
+
+print("\nExpenses by Category")
+print("Food:", food)
+print("School:", school)
+print("Transport:", transport)
+
+print("\nSavings Progress:", round(percent,2), "%")
 
 if remaining >= savings_goal:
-    print("Great! You can reach your savings goal.")
+    print("You reached your savings goal!")
 else:
-    print("You need to save more to reach your goal.")
-
-if expenses > income:
-    print("Warning: You spent more than you earned!")
-elif expenses > income * 0.8:
-    print("Reminder: You are close to your spending limit. Try to save more!")
-else:
-    print("Good job! Your spending is within your budget.")
+    print("Reminder: Spend less to reach your goal.")

@@ -9,7 +9,7 @@ MoneyMinder is a software tool designed to help users keep an eye on all your ex
 5. Saving Progress - Calculates savings progress percentage.
    
 # HOW TO ACTIVATE THE PROGRAM:
-1. Open the python file: https://onlinegdb.com/TLyAA3Sba
+1. Open the python file: (https://onlinegdb.com/Is4dDKGO8o)
 2. Enter your information – Input your income, expenses, and savings goals.
 3. View results – The program will show a summary, track your spending, and give reminders.
 

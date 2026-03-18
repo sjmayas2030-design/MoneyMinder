@@ -28,10 +28,15 @@ Savings % = (Remaining Balance ÷ Savings Goal) × 100
 
 3.Improved Financial Summary
 The summary now shows:
+
 Total Income
+
 Total Expenses
+
 Remaining Balance
+
 Expenses grouped by category
+
 Savings progress
 ‎
 # Methodology

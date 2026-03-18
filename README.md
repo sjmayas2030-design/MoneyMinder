@@ -13,11 +13,6 @@ MoneyMinder is a software tool designed to help users keep an eye on all your ex
 2. Enter your information – Input your income, expenses, and savings goals.
 3. View results – The program will show a summary, track your spending, and give reminders.
 
-# MEMBERS:
-Marlon II Q. Macuno 
-Shanel Joy C. May-as
-Alenka Zykia Venice M. Pizarro
-
 # Updates Made (3 Updates)
 1.Expense Categorization
 Expenses are now stored with categories (e.g., Food, School, Transport) to better analyze spending.
@@ -42,8 +37,11 @@ Savings progress
 # Methodology
 ‎
 1.Income is stored in a list.‎
+
 2.Expenses are stored as dictionaries containing amount and category.‎
+
 3.Totals are calculated using Python’s sum() function.
+
 4.The program uses a simple console-based menu system for user interaction. 
 ‎
 # Technologies Used‎
@@ -62,3 +60,10 @@ GitHub, Inc. (2024). GitHub documentation. Retrieved from https://docs.github.co
 Python Software Foundation. (2024). Python documentation.
 Retrieved from
 https://docs.python.org/3/  
+
+# MEMBERS:
+Marlon II Q. Macuno 
+
+Shanel Joy C. May-as
+
+Alenka Zykia Venice M. Pizarro
